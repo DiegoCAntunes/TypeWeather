@@ -9,8 +9,8 @@ This application provides a user-friendly interface for accessing weather data a
 - [Installation](#installation)
 
 ## Screenshots
-![Screenshot 1](/src/assets/screenshot1.png)
-![Screenshot 2](/src/assets/screenshot2.png)
+![Screenshot 1](/src/assets/img/screenshot1.png)
+![Screenshot 2](/src/assets/img/screenshot2.png)
 
 ## Features
 
